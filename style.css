@@ -1,0 +1,82 @@
+#introduction {
+    background: url(img/santa-barbara.jpg);
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+  }
+  
+h1.knockout {
+    background: url(http://apod.nasa.gov/apod/image/0603/coma_misti.jpg) -80px -80px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-weight: bold;
+    font-size: 60px;
+    font-family: arial, helvetica;
+    width: 700px;
+    margin: 10px auto;
+    text-align: center;
+  }
+
+  h2.knockout {
+    background: url(http://apod.nasa.gov/apod/image/0603/coma_misti.jpg) -80px -80px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: arial, helvetica;
+    width: 800px;
+    margin: 10px auto;
+    text-align: center;
+  }
+
+  p.knockout {
+    background: url(http://apod.nasa.gov/apod/image/0603/coma_misti.jpg) -80px -80px;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    font-size: 15px;
+    font-family: arial, helvetica;
+    width: 700px;
+    margin: 10px auto;
+    text-align: center;
+  }
+
+  .fill-viewport {
+      min-height: 100vh;
+  }
+
+  .fill-viewport-70 {
+    min-height: 70vh;
+}
+
+  .centertop {
+      padding-top: 10%; 
+      text-align: center; 
+      font-family: 'Times New Roman', Times, serif;
+  }
+
+  .centertopnopadding {
+    text-align: center; 
+    font-family: 'Times New Roman', Times, serif;
+    color: black
+  }
+
+  .marion {
+    background:  url(img/marion.jpg),  0% 0%/cover ;
+  }
+
+.centercol {
+    margin: auto;
+    display: block;
+}
+
+.text-black-70 {
+  color: rgba(0, 0, 0, 0.4);
+}
+
+.born{
+  margin: 10px auto;
+  text-align: center;
+}
+
+.virginia {
+  margin: 15% auto; 
+}
